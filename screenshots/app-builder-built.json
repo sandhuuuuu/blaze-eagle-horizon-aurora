@@ -1,0 +1,38 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Cardioid",
+      "hasCanvas": true,
+      "bodyTextLen": 175,
+      "bodyTextHash": "01a574792b2a15d90676cb05b1b2ec5cc4915a89ccb2ba0bcb1723ab8c5ae388",
+      "bodyTextPrefix": "Cardioid Mandelbrot set -0.70 + 0.00i 1.00×280 iterations Drag t",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Cardioid",
+      "hasCanvas": true,
+      "bodyTextLen": 175,
+      "bodyTextHash": "01a574792b2a15d90676cb05b1b2ec5cc4915a89ccb2ba0bcb1723ab8c5ae388",
+      "bodyTextPrefix": "Cardioid Mandelbrot set -0.70 + 0.00i 1.00×280 iterations Drag t",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": false,
+  "baselineReasons": []
+}
